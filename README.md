@@ -5,9 +5,11 @@ A single page application used to host the programming exercises for the study [
 ## Installation
 
 1. Before running, make sure you have an up to date version of [Python](https://www.python.org/downloads/).
-2. To run the project, simply run `python3 -m http.server` and then visit http://localhost:8000 to view the website.
+2. To run the project, simply run `python3 -m http.server` in the `website` folder (`cd website`) and then visit http://localhost:8000 to view the website.
 
 ## Additional Info
+
+The `exercises` contains the original debugging exercises as they appeared to the students, as well as corrected solutions.
 
 ### Log Data Format:
 For those interested in analysing programming log data, the format of this data is described below and collected using the Ada code editor's logging. When a student runs the code, the following entry is added to a JSON of logs:
