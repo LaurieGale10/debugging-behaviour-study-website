@@ -1,6 +1,6 @@
-# *Investigating the Debugging Behaviour and Attitudes of KS3 Students* Study Website
+# *An Investigation Into K-12 Students' Debugging Behaviour in Python* Study Website
 
-A single page application used to host the programming exercises for the study ["Investigating the Attitudes and Emotions of K-12 Students Towards Debugging"](https://dl.acm.org/doi/10.1145/3610969.3611120) and Investigating the Debugging Behaviour of Lower Secondary Students (not yet published) in early 2023. Developed using vanilla JavaScript (embedding the [Ada CS Code Editor](https://github.com/isaacphysics/isaac-code-editor)), HTML, and CSS, using a Flask app to serve a Postgresql database (not included in this repo).
+A single page application used to host the programming exercises for the study ["Investigating the Attitudes and Emotions of K-12 Students Towards Debugging"](https://dl.acm.org/doi/10.1145/3610969.3611120) and "An Investigation Into K-12 Students' Debugging Behaviour in Python" (not yet published) in early 2023. Developed using vanilla JavaScript (embedding the [Ada CS Code Editor](https://github.com/isaacphysics/isaac-code-editor)), HTML, and CSS, using a Flask app to serve a Postgresql database (not included in this repo).
 
 ## Installation
 
